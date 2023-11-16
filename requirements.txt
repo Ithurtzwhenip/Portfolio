@@ -4,3 +4,4 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
+gunicorn @ git+https://github.com/benoitc/gunicorn.git@02d3dd8b7ae28816a37623077388dbcfdbfd4379
